@@ -14,7 +14,7 @@ Tengo experiencia en gestión financiera, contable y administrativa. Me gusta tr
 - 💬 Pregúntame sobre matemáticas y estadística. 
 - 📫 Puedes ponerte en contacto conmigo a mi correro electrónico ricardo.matabays@gmail.com
 - 😄 Pronouns: él
-- ⚡ Fun fact: "Los organismos tienen aspectos algorítmicos, y los humanos no son individuos, sino <dividuos>. Es decir, los humanos son un conjunto de muchos algoritmos diferentes que hace que carezcan de una voz interior o de un yo único."
+- ⚡ Fun fact: "Los humanos no son individuos, sino <dividuos>. Debido a que, son influenciados por muchos algoritmos diferentes que hace que carezcan de una voz interior."
 
 <!--
 **Ricardomasi/Ricardomasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
