@@ -1,6 +1,6 @@
 <h1 align = "center"> 👋 Hola Mundo mi nombre es Ricardo</h1>
 <p align = "center">
-  📊 Economista |  🧮 Data Analyst | Stadistics | Excel | Power BI | Pythom | R | 🤖 Ingeniero en Ciencias de Datos e Inteligencia Artificial en curso.  
+  📊 Economista |  🧮 Data Analyst | Statistics | Excel | Power BI | Pythom | R | 🤖 Ingeniero en Ciencias de Datos e Inteligencia Artificial en curso.  
 </p>
 
 ## 🧠 Sobre mi
