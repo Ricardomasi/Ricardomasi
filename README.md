@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="./Banner.gif" alt = "Banner Ricardo Matabay" width="800" height="200" />
+  <img src="./Banner.gif" alt = "Banner Ricardo Matabay" width="800" height="600" />
 </p>
 
 <p align="center">
