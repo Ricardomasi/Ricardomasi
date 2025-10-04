@@ -16,6 +16,10 @@ Tengo experiencia en gestión financiera, contable y administrativa. Me gusta tr
 - 😄 Pronouns: él
 - ⚡ Fun fact: "Los humanos no son individuos, sino dividuos. Debido a que, son influenciados por muchos algoritmos diferentes que hace que carezcan de una voz interior."
 
+<p align = "center">
+  <img src="./Banner.PNG" alt = "Banner Ricardo Matabay" />
+</p>
+
 <!--
 **Ricardomasi/Ricardomasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
