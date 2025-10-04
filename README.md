@@ -2,20 +2,19 @@
   <img src="./Banner.PNG" alt = "Banner Ricardo Matabay" />
 </p>
 
-<p align = "center">
-  < a href = "https://youtube.com/@ricciduck?si=p2MYW4MoVmejipFA" target = "_blank">
-    <img src = "https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+<p align="center">
+  <a href="https://youtube.com/@ricciduck?si=p2MYW4MoVmejipFA" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href = "https://discord.com/users/1395875858912251974" target = "_blank">
-    <img src = "https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/1395875858912251974" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a>
-    <a href = "www.linkedin.com/in/ricardo-matabay" target = "_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ricardo-matabay" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <h1 align = "center"> 👋 Hola Mundo mi nombre es Ricardo</h1>
 <p align = "center">
@@ -25,7 +24,7 @@
 ## 🧠 Sobre mi
 Tengo experiencia en gestión financiera, contable y administrativa. Me gusta trabajar con datos, descubrir su patrones, tendencias y causalidades. En los últimos años he desarrollado de forma autodidacta habilidades en reportería. Además de mi trabajo profesional, me encanta el senderismo, motociclismo y la música, especialmente el rock e indie y la música antigua que escuchaba mi padre. Mi terapía correr en pista, gimnasio y cuidar de mis plantas🪴 y árboles🌳.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🚀 Proyectos y metas actuales
 - 🔭 Actualmente estoy recopilando información para presentar mis proyectos en mis redes sociales.
