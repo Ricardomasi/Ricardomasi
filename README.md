@@ -14,7 +14,7 @@
   </a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <h1 align = "center"> 👋 Hola Mundo mi nombre es Ricardo</h1>
 <p align = "center">
@@ -24,7 +24,7 @@
 ## 🧠 Sobre mi
 Tengo experiencia en gestión financiera, contable y administrativa. Me gusta trabajar con datos, descubrir su patrones, tendencias y causalidades. En los últimos años he desarrollado de forma autodidacta habilidades en reportería. Además de mi trabajo profesional, me encanta el senderismo, motociclismo y la música, especialmente el rock e indie y la música antigua que escuchaba mi padre. Mi terapía correr en pista, gimnasio y cuidar de mis plantas🪴 y árboles🌳.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🚀 Proyectos y metas actuales
 - 🔭 Recopilar información para presentar mis proyectos en mis redes sociales.
