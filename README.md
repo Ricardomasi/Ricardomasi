@@ -27,10 +27,10 @@ Tengo experiencia en gestión financiera, contable y administrativa. Me gusta tr
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🚀 Proyectos y metas actuales
-- 🔭 Actualmente estoy recopilando información para presentar mis proyectos en mis redes sociales.
+- 🔭 Recopilar información para presentar mis proyectos en mis redes sociales.
 - 🌱 Estoy cursando la carrera de ingenieria en ciencias de datos e inteligencia artificial. 
-- 👯 A futuro quiero colaborar con personas que realicen tutoriales relacionadas a data science. 
-- 🤔 Necesito ayuda para perder el miedo a la camara y realizar mis videos 😬.  
+- 👯 Colaborar con personas que realicen tutoriales relacionadas a data science. 
+- 🤔 Perder el miedo a frente a la cámara al realizar mis videos 😬.  
 - 💬 Pregúntame sobre matemáticas y estadística. 
 - 📫 Puedes ponerte en contacto conmigo a mi correro electrónico ricardo.matabays@gmail.com
 - 😄 Pronouns: él
